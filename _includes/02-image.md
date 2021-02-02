@@ -1,1 +1,1 @@
-[Image of Labrador Retriever] (https://www.google.com/search?q=labrador&rlz=1C1CHBF_enUS802US802&sxsrf=ALeKk03d5ElPwAGxoB45vczEMEMC64QnGg:1612290372360&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiC6qzX6cvuAhWeGVkFHQ3CBPsQ_AUoAXoECBkQAw&biw=1920&bih=937#imgrc=zIPtBB0XEXEs4M)
+[Image of Labrador Retriever](https://www.google.com/search?q=labrador&rlz=1C1CHBF_enUS802US802&sxsrf=ALeKk03d5ElPwAGxoB45vczEMEMC64QnGg:1612290372360&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiC6qzX6cvuAhWeGVkFHQ3CBPsQ_AUoAXoECBkQAw&biw=1920&bih=937#imgrc=zIPtBB0XEXEs4M)
